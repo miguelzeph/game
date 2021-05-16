@@ -1,5 +1,3 @@
-# game (não finalizado - Apenas para testar Godot)
-
 # Godot to HTML
 
 Para executar o .wasm você deve criar um local host ( exemplo com [python](https://docs.godotengine.org/en/3.0/getting_started/workflow/export/exporting_for_web.html#export-options))
